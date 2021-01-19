@@ -22,11 +22,6 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://flaw.tech', 
-          label: 'Forum', 
-          position: 'left'
-        },
-        {
           href: 'https://flaw.tech/blog', 
           label: 'Blog', 
           position: 'left'
@@ -84,9 +79,9 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          // Please change this to your repo.
+          path: 'docs',
+          sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
         },
