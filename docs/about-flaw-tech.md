@@ -1,10 +1,8 @@
 ---
-id: about-flaw-tech-faq
-title: Frequently Asked Questions
+id: about-flaw-tech
+title: What is Flaw Tech
 slug: /
 ---
-
-### What is Flaw Tech
 
 Before Flaw Tech, we operated under different alias 'Hack Hex' in 2018. As our traffic grew, we quickly realised we needed to make community based website where everyone could contribute their knowledge and help others in the process. Our goal has been the same from day one, to educate people.
 
