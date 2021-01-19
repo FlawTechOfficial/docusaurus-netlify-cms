@@ -1,6 +1,6 @@
 ---
 id: about-flaw-tech
-title: What is Flaw Tech
+title: What is Flaw Tech?
 slug: /
 ---
 
