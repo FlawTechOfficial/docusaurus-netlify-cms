@@ -46,7 +46,7 @@ module.exports = {
           items: [
             {
               label: 'Docs',
-              href: 'https://dev.flaw.tech',
+              href: 'https://dev.flaw.tech/docs',
             },
             {
               label: 'Forum',
