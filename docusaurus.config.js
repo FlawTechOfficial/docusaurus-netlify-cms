@@ -27,11 +27,6 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://flaw.tech', 
-          label: 'Forum', 
-          position: 'left'
-        },
-        {
           href: 'https://github.com/FlawTechOfficial',
           label: 'GitHub',
           position: 'right',
@@ -49,12 +44,12 @@ module.exports = {
               href: 'https://dev.flaw.tech/docs',
             },
             {
-              label: 'Forum',
-              href: 'https://flaw.tech',
-            },
-            {
               label: 'Blog',
               href: 'https://dev.flaw.tech/blog',
+            },
+            {
+              label: 'Forum',
+              href: 'https://flaw.tech',
             },
           ],
         },
