@@ -27,7 +27,7 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://flaw.tech/blog', 
+          href: 'https://dev.flaw.tech/blog', 
           label: 'Blog', 
           position: 'left'
         },
@@ -46,7 +46,7 @@ module.exports = {
           items: [
             {
               label: 'Docs',
-              href: 'https://docs.flaw.tech',
+              href: 'https://dev.flaw.tech',
             },
             {
               label: 'Forum',
@@ -54,7 +54,7 @@ module.exports = {
             },
             {
               label: 'Blog',
-              href: 'https://flaw.tech/blog',
+              href: 'https://dev.flaw.tech/blog',
             },
           ],
         },
@@ -87,6 +87,12 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
+          showLastUpdateTime: true,
+        },
+        blog: {
+          showReadingTime: true,
+          editUrl:
+            'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
           showLastUpdateTime: true,
         },
         theme: {
