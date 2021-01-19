@@ -15,6 +15,3 @@ We are continuously working in the direction to better the platform and would lo
 ### Who visits our website?
 
 Technologiests, software developers, bitcoiners, blockchain enthusiasts, startup founders, students, & generally awesome people.
-
-### Do you have a Terms of Service?
-Yes, we do. You can read it here.

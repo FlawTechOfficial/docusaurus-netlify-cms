@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Flaw Tech',
   tagline: 'Documentation Section',
-  url: 'https://docs.flaw.tech',
+  url: 'https://flaw.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
@@ -85,6 +85,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
