@@ -32,7 +32,7 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://github.com/FlawTechOfficial/docusaurus-netlify-cms',
+          href: 'https://github.com/FlawTechOfficial',
           label: 'GitHub',
           position: 'right',
         },
