@@ -5,6 +5,6 @@ title: Contact Information
 
 If you have any problem related to the community, you may open a discussion thread in the support section: https://flaw.tech/t/support
 
-- Please note that the discussion threads' visibility is private. Only you and staff members are able to view/reply.
+- Please note that all discussion threads in the support section are set to **private** by default. Only staff members can view or reply to them.
 
-If you wish to contact us through mail then send us an email at support@flaw.tech
+If you wish to contact us through mail then send us an email at [support@flaw.tech](mailto:support@flaw.tech)
