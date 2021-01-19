@@ -11,6 +11,7 @@ module.exports = {
     navbar: {
       title: 'Flaw Tech',
       logo: {
+        href: 'https://flaw.tech',
         alt: 'Flaw Tech Logo',
         src: 'img/logo.svg',
       },
@@ -75,7 +76,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()-1}-${new Date().getFullYear()} Flaw Tech Development. All Rights Reserved.`,
+      copyright: `Copyright © 2020-${new Date().getFullYear()} Flaw Tech Development. All Rights Reserved.`,
     },
   },
   presets: [

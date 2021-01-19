@@ -46,7 +46,7 @@ Some of the advertisers on our site may use cookies and web beacons. Our adverti
 
 ### Google
 
-[https://policies.google.com/technologies/ads]
+- https://policies.google.com/technologies/ads
 
 ### Advertising Partners Privacy Policies
 You may consult this list to find the Privacy Policy for each of the advertising partners of Flaw Tech.
@@ -88,4 +88,5 @@ Flaw Tech does not knowingly collect any Personal Identifiable Information from 
 
 ## Contact Information
 **Address:** Flaw Tech Development, Lahore, Punjab (54000)
+
 **Email:** support@flaw.tech
