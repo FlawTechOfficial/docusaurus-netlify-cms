@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Flaw Tech',
+  tagline: 'Documentation Section',
+  url: 'https://docs.flaw.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'flawtech', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-netlify-cms', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Flaw Tech',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Flaw Tech Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -21,9 +21,18 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://flaw.tech', 
+          label: 'Forum', 
+          position: 'left'
+        },
+        {
+          href: 'https://flaw.tech/blog', 
+          label: 'Blog', 
+          position: 'left'
+        },
+        {
+          href: 'https://github.com/FlawTechOfficial/docusaurus-netlify-cms',
           label: 'GitHub',
           position: 'right',
         },
@@ -33,50 +42,41 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Navigation',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Docs',
+              href: 'https://docs.flaw.tech',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Forum',
+              href: 'https://flaw.tech',
+            },
+            {
+              label: 'Blog',
+              href: 'https://flaw.tech/blog',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Social',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/FlawTechOfficial',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
+              href: 'https://twitter.com/FlawDotTech',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Linkedin',
+              href: 'https://www.linkedin.com/FlawTechOfficial',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()-1}-${new Date().getFullYear()} Flaw Tech Development. All Rights Reserved.`,
     },
   },
   presets: [
@@ -87,13 +87,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
