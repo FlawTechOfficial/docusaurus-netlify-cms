@@ -27,7 +27,7 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://dev.flaw.tech/blog', 
+          to: 'blog', 
           label: 'Blog', 
           position: 'left'
         },
