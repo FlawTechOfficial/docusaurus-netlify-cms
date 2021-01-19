@@ -1,9 +1,9 @@
 ---
 id: legal-terms-of-use
-title: Privacy Policy
+title: Terms of Use
 ---
 
-**Version 1.0**
+
 The Flaw Tech website located at https://flaw.tech is a copyrighted work belonging to Flaw Tech Development. Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
 
 All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
