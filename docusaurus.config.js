@@ -93,7 +93,6 @@ module.exports = {
           showReadingTime: true,
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
-          showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
