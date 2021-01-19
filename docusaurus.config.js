@@ -22,13 +22,13 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://flaw.tech', 
-          label: 'Forum', 
+          to: 'blog', 
+          label: 'Blog', 
           position: 'left'
         },
         {
-          to: 'blog', 
-          label: 'Blog', 
+          href: 'https://flaw.tech', 
+          label: 'Forum', 
           position: 'left'
         },
         {
