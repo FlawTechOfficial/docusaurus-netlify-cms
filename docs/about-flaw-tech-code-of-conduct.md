@@ -10,6 +10,7 @@ In the interest of fostering an open and welcoming environment, we pledge to mak
 
 ## The Standards
 Examples of behavior that contributes to creating a positive environment include:
+
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
@@ -56,6 +57,7 @@ Examples of unacceptable behavior by participants include:
 In the event of disputes or clarification on any of the guidelines, the Community Management Team has the final say. We will not discuss individual details of any of our moderation decisions on the public forums.
 
 The process for disputes is as follows:
+
 - Discuss the situation/issue directly with the staff member who took the action. This is likely through a Private Message on the community or in the case of suspension through the community e-mail address (we will also reach out to the person in question via e-mail to initiate this contact).
 - If you wish to escalate further any discussion or dispute you may have with a decision or a member of our Community Team, please request that they refer you to an administrator or contact another member of the community team.
 
