@@ -1,5 +1,5 @@
 ---
-id: about-flaw-tech-community
+id: flaw-tech-community
 title: Our Community
 ---
 
