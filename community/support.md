@@ -12,7 +12,7 @@ Before participating in Flaw Tech's communities, [please read our Code of Conduc
 ## Forum
 If you have any problem related to the forum, you may open a discussion thread in the support section: https://flaw.tech/t/support
 
-**Note:** All discussion threads in the support section are set to **private** by default. Only staff members can view or reply to them. You will also need to create an account to start a discussion thread.
+Please note that all discussion threads in the support section are set to **private** by default. Only staff members can view or reply to them. You will also need to create an account to start a discussion thread.
 
 ## Email
 If you wish to contact us through mail then send us an email at [support@flaw.tech](mailto:support@flaw.tech)
