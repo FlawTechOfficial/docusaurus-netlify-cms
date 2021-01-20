@@ -80,7 +80,7 @@ module.exports = {
           items: [
             {
               label: 'Contact Us',
-              to: 'support',
+              to: 'community/support',
             },
           ],
         },
