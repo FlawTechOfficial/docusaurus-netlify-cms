@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Flaw Tech',
   tagline: 'Documentation Section',
-  url: 'https://flaw.tech',
+  url: 'https://dev.flaw.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
@@ -54,6 +54,23 @@ module.exports = {
           ],
         },
         {
+          title: 'Legal',
+          items: [
+            {
+              label: 'Privacy Policy',
+              to: 'docs/legal-privacy-policy',
+            },
+            {
+              label: 'Terms of Use',
+              to: 'docs/legal-terms-of-use',
+            },
+            {
+              label: 'Cookies Policy',
+              to: 'docs/legal-cookies-policy',
+            },
+          ],
+        },
+        {
           title: 'Support',
           items: [
             {
@@ -80,6 +97,11 @@ module.exports = {
           ],
         },
       ],
+      logo: {
+        alt: 'Flaw Tech Logo',
+        src: 'img/logo-text.png',
+        href: 'https://flaw.tech',
+      },
       copyright: `Copyright © 2020-${new Date().getFullYear()} Flaw Tech Development. All Rights Reserved.`,
     },
   },
