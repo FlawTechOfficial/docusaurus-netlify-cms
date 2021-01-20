@@ -1,6 +1,6 @@
 ---
 id: forum
-title: Forum
+title: Our Community Forum
 ---
 
 Our community's forum main topics of discussion include operating systems, electronics and electronic gadgets, security, software, hardware, servers, programming, mobile devices and general help. 
