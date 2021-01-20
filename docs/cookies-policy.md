@@ -1,5 +1,5 @@
 ---
-id: legal-cookies-policy
+id: cookies-policy
 title: Cookies Policy
 ---
 

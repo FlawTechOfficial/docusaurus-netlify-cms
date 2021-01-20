@@ -1,5 +1,5 @@
 ---
-id: flaw-tech-who-are-we
+id: who-are-we
 title: Who are we?
 ---
 

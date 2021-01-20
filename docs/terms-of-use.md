@@ -1,5 +1,5 @@
 ---
-id: legal-terms-of-use
+id: terms-of-use
 title: Terms of Use
 ---
 

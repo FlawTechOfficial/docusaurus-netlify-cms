@@ -27,7 +27,7 @@ module.exports = {
           position: 'left'
         },
         {
-          to: 'community/forum', 
+          to: 'community', 
           label: 'Community', 
           position: 'left'
         },
@@ -63,15 +63,15 @@ module.exports = {
           items: [
             {
               label: 'Privacy Policy',
-              to: 'docs/legal-privacy-policy',
+              to: 'docs/privacy-policy',
             },
             {
               label: 'Terms of Use',
-              to: 'docs/legal-terms-of-use',
+              to: 'docs/terms-of-use',
             },
             {
               label: 'Cookies Policy',
-              to: 'docs/legal-cookies-policy',
+              to: 'docs/cookies-policy',
             },
           ],
         },

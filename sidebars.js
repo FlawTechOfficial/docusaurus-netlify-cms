@@ -1,7 +1,7 @@
 module.exports = {
   secondSidebar: {
     'Introduction': ['welcome'],
-    'Company': ['flaw-tech-who-are-we', 'flaw-tech-code-of-conduct'],
-    'Legal': ['legal-privacy-policy', 'legal-terms-of-use', 'legal-cookies-policy', 'legal-trademarks'],
+    'Company': ['who-are-we', 'code-of-conduct'],
+    'Legal': ['privacy-policy', 'terms-of-use', 'cookies-policy', 'trademarks'],
   },
 };

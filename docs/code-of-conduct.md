@@ -1,5 +1,5 @@
 ---
-id: flaw-tech-code-of-conduct
+id: code-of-conduct
 title: Code of Conduct
 ---
 

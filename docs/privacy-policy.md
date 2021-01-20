@@ -1,5 +1,5 @@
 ---
-id: legal-privacy-policy
+id: privacy-policy
 title: Privacy Policy
 ---
 

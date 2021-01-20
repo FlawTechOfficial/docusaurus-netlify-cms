@@ -1,5 +1,5 @@
 ---
-id: legal-trademarks
+id: trademarks
 title: Trademarks
 ---
 
