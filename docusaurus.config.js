@@ -126,7 +126,7 @@ module.exports = {
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
         },
         support: {
-          sidebarPath: require.resolve('./support-sidebars.js'),
+          sidebarPath: require.resolve('./support-sidebar.js'),
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
           showLastUpdateTime: true,
