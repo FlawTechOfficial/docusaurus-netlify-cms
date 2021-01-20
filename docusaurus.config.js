@@ -27,8 +27,8 @@ module.exports = {
           position: 'left'
         },
         {
-          to: 'support', 
-          label: 'Support', 
+          to: 'community/support', 
+          label: 'Community', 
           position: 'left'
         },
         {
@@ -139,10 +139,10 @@ module.exports = {
   ],
   plugins: [
     ['@docusaurus/plugin-content-docs', {
-      id: 'support',
-      routeBasePath: 'support',
-      path: 'support',
-      sidebarPath: require.resolve('./support-sidebar.js'),
+      id: 'community',
+      routeBasePath: 'community',
+      path: 'community',
+      sidebarPath: require.resolve('./community-sidebar.js'),
       editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
       showLastUpdateTime: true,

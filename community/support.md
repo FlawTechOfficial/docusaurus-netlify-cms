@@ -1,7 +1,6 @@
 ---
-id: welcome
-title: Welcome
-slug: /
+id: support
+title: Support
 ---
 
 Flaw Tech has a community of thousands of tech enthusiast and developers from all around the world.
