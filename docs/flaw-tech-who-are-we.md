@@ -1,5 +1,5 @@
 ---
-id: flaw-tech
+id: flaw-tech-who-are-we
 title: Who are we?
 slug: /
 ---
