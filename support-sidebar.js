@@ -1,6 +1,6 @@
 module.exports = {
   support: [
-    'support-forum',
-    'support-email',
+    'forum',
+    'email',
   ],
 };

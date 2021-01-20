@@ -1,5 +1,5 @@
 ---
-id: support-forum
+id: forum
 title: Forum
 slug: /
 ---
