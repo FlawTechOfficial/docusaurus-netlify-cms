@@ -18,5 +18,5 @@ Please note that all discussion threads in the support section are set to **priv
 If you wish to contact us through mail then send us an email at [support@flaw.tech](mailto:support@flaw.tech)
 
 ## News
-For the latest news about Docusaurus, [follow @FlawDotTech on Twitter](https://twitter.com/FlawDotTect) and the [official Flaw Tech blog](https://dev.flaw.tech/blog) on this website.
+For the latest news about Flaw Tech, [follow @FlawDotTech on Twitter](https://twitter.com/FlawDotTect) and the [official Flaw Tech blog](https://dev.flaw.tech/blog) on this website.
 
