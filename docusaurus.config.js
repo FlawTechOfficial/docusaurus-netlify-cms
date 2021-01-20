@@ -84,7 +84,7 @@ module.exports = {
             },
             {
               label: 'Contact Us',
-              to: 'community/support-email',
+              to: 'community/email',
             },
           ],
         },

@@ -1,5 +1,5 @@
 ---
-id: support-email
+id: email
 title: Email
 ---
 

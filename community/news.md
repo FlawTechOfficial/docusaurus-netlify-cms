@@ -1,5 +1,5 @@
 ---
-id: support-news
+id: news
 title: News
 ---
 
