@@ -27,6 +27,11 @@ module.exports = {
           position: 'left'
         },
         {
+          to: 'support', 
+          label: 'Support', 
+          position: 'left'
+        },
+        {
           href: 'https://github.com/FlawTechOfficial',
           label: 'GitHub',
           position: 'right',
@@ -119,6 +124,12 @@ module.exports = {
           showReadingTime: true,
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
+        },
+        support: {
+          sidebarPath: require.resolve('./support-sidebars.js'),
+          editUrl:
+            'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
