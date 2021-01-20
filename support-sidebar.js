@@ -1,5 +1,5 @@
 module.exports = {
-  supportSidebar: [
+  support: [
     'support-forum',
     'support-email',
   ],
