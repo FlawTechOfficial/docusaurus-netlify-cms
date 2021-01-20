@@ -76,8 +76,12 @@ module.exports = {
           ],
         },
         {
-          title: 'Support',
+          title: 'Community',
           items: [
+            {
+              label: 'Forum Support',
+              href: 'https://flaw.tech/t/support',
+            },
             {
               label: 'Contact Us',
               to: 'community/support',
