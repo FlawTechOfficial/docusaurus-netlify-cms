@@ -122,7 +122,7 @@ module.exports = {
           id: 'docs',
           routeBasePath: 'docs',
           path: 'docs',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./docs-sidebar.js'),
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
           showLastUpdateTime: true,

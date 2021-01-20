@@ -1,7 +1,7 @@
 module.exports = {
-  community: [
-    'welcome',
-    'forum',
-    'support',
-  ],
+  sidebar: {
+    'Introduction': ['welcome'],
+    'Forum': ['forum'],
+    'Support': ['support'],
+  },
 };
