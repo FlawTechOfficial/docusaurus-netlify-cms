@@ -41,11 +41,11 @@ module.exports = {
           items: [
             {
               label: 'Docs',
-              href: 'https://dev.flaw.tech/docs',
+              to: 'docs',
             },
             {
               label: 'Blog',
-              href: 'https://dev.flaw.tech/blog',
+              to: 'blog',
             },
             {
               label: 'Forum',
@@ -54,7 +54,16 @@ module.exports = {
           ],
         },
         {
-          title: 'Social',
+          title: 'Support',
+          items: [
+            {
+              label: 'Contact Us',
+              to: 'docs/about-flaw-tech-contact',
+            },
+          ],
+        },
+        {
+          title: 'Connect',
           items: [
             {
               label: 'Facebook',
