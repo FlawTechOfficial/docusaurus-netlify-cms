@@ -29,7 +29,7 @@ Examples of unacceptable behavior by participants include:
 - Attacking personal tastes
 - Other conduct which you know could reasonably be considered inappropriate in a professional setting.
 
-## How our staff enforces the above
+### How our staff enforces the above
 1. We respect the Community Guidelines in our interactions with members and expect members to do the same when interacting with staff.
 2. We rely on reports via flagged posts to take action and to discuss situations with members.
 3. We approach any enforcement of the Rules and Code of Conduct primarily through private discussion. Any action we take will be prompted by or to support discussion. Any enforcement action by community staff taken is open for discussion with that member of staff.
@@ -53,7 +53,7 @@ Examples of unacceptable behavior by participants include:
 
  Suspended members will continue to have access to read the community and knowledge base as well as the ability to raise cases with the staff.
 
-## Disputes
+#### Disputes
 In the event of disputes or clarification on any of the guidelines, the Community Management Team has the final say. We will not discuss individual details of any of our moderation decisions on the public forums.
 
 The process for disputes is as follows:
@@ -65,6 +65,7 @@ Violations of the Code of Conduct may also be reported by sending an email to su
 
 We hold the right and responsibility to remove comments or other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any members for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
-**Updating the guidelines:** Please note these guidelines are subject to updates without notice.
+## Updating the guidelines
+Please note these guidelines are subject to updates without notice.
 
 For any major changes, we will announce them in the [blog](https://dev.flaw.tech/blog) section. We urge you to check these guidelines on a regular basis.
