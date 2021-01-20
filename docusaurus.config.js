@@ -27,7 +27,7 @@ module.exports = {
           position: 'left'
         },
         {
-          to: 'community/support', 
+          to: 'community/forum', 
           label: 'Community', 
           position: 'left'
         },
@@ -80,7 +80,7 @@ module.exports = {
           items: [
             {
               label: 'Contact Us',
-              to: 'community/forum',
+              to: 'community/support',
             },
           ],
         },
