@@ -1,7 +1,6 @@
 ---
 id: flaw-tech-who-are-we
 title: Who are we?
-slug: /
 ---
 
 Before Flaw Tech, we operated under different alias 'Hack Hex' in 2018 to 2020. As our traffic grew, we quickly realised the need for community based website where everyone can contribute and help others in the process. Our goal has been the same from day one, to educate people.
