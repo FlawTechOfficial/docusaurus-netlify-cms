@@ -15,7 +15,7 @@ If you have any problem related to the forum, you may open a discussion thread i
 Please note that all discussion threads in the support section are set to **private** by default. Only staff members can view or reply to them. You will also need to create an account to start a discussion thread.
 
 ## Email
-If you have any other query not related to the forum and wish to contact us through mail then send us an email at [support@flaw.tech](mailto:support@flaw.tech)
+If you have any other query (not related to the forum) and wish to contact us through mail then send us an email at [support@flaw.tech](mailto:support@flaw.tech)
 
 ## News
 For the latest news about Flaw Tech, [follow @FlawDotTech on Twitter](https://twitter.com/FlawDotTect) and the [official Flaw Tech blog](https://dev.flaw.tech/blog) on this website.
