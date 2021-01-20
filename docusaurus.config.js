@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Flaw Tech',
-  tagline: 'Documentation Section',
+  tagline: 'All the help you need to understand Flaw Tech better',
   url: 'https://dev.flaw.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
