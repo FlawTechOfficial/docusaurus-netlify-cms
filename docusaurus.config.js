@@ -115,17 +115,26 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          id: 'docs',
+          routeBasePath: 'docs',
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
           showLastUpdateTime: true,
         },
         blog: {
+          id: 'blog',
+          routeBasePath: 'blog',
+          path: 'blog',
           showReadingTime: true,
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
         },
         support: {
+          id: 'support',
+          routeBasePath: 'support',
+          path: 'support',
           sidebarPath: require.resolve('./support-sidebar.js'),
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
