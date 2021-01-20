@@ -131,19 +131,21 @@ module.exports = {
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
         },
-        support: {
-          id: 'support',
-          routeBasePath: 'support',
-          path: 'support',
-          sidebarPath: require.resolve('./support-sidebar.js'),
-          editUrl:
-            'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
-          showLastUpdateTime: true,
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
+  ],
+  plugins: [
+    ['@docusaurus/plugin-content-docs', {
+      id: 'support',
+      routeBasePath: 'support',
+      path: 'support',
+      sidebarPath: require.resolve('./support-sidebar.js'),
+      editUrl:
+            'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/',
+      showLastUpdateTime: true,
+    }],
   ],
 };
