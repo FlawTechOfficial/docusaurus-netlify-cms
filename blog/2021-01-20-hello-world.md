@@ -7,4 +7,4 @@ author_image_url: https://flaw.tech/assets/avatars/aDRCdgD3WbogrJ0N.png
 tags: [hello, world]
 ---
 
-Welcome to this blog. This blog is created with [**Docusaurus 2 alpha**](https://v2.docusaurus.io/).
+Welcome to Flaw Tech's blog. This blog is created with [**Docusaurus 2 alpha**](https://v2.docusaurus.io/).
