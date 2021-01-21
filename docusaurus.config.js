@@ -131,7 +131,6 @@ module.exports = {
           id: 'blog',
           routeBasePath: 'blog',
           path: 'blog',
-          blogTitle: 'Flaw Tech Development Blog',
           blogDescription: 'Our company\'s official Blog section',
           showReadingTime: true,
           editUrl:
