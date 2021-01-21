@@ -11,7 +11,7 @@ export default function TeamProfileCard({
   className,
   name,
   children,
-  githubUrl,
+  profileUrl,
   twitterUrl,
   authorImg,
 }) {
@@ -33,9 +33,9 @@ export default function TeamProfileCard({
         <div className="card__body">{children}</div>
         <div className="card__footer">
           <div className="button-group button-group--block">
-            {githubUrl && (
-              <a className="button button--secondary" href={githubUrl}>
-                GitHub
+            {profileUrl && (
+              <a className="button button--secondary" href={profileUrl}>
+                Profile
               </a>
             )}
             {twitterUrl && (
