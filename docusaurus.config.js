@@ -131,9 +131,15 @@ module.exports = {
           id: 'blog',
           routeBasePath: 'blog',
           path: 'blog',
+          blogTitle: 'Flaw Tech Development Blog',
+          blogDescription: 'Our company\'s official Blog section',
           showReadingTime: true,
           editUrl:
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © 2020-${new Date().getFullYear()} Flaw Tech Development. All Rights Reserved.`,
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
