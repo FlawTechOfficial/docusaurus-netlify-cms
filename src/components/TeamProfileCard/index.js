@@ -13,6 +13,7 @@ export default function TeamProfileCard({
   children,
   githubUrl,
   twitterUrl,
+  authorImg,
 }) {
   return (
     <div className={className}>
@@ -21,7 +22,7 @@ export default function TeamProfileCard({
           <div className="avatar avatar--vertical">
             <img
               className="avatar__photo avatar__photo--xl"
-              src={githubUrl + '.png'}
+              src={authorImg}
               alt={`${name}'s avatar`}
             />
             <div className="avatar__intro">

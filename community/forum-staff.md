@@ -11,14 +11,14 @@ export function TeamProfileCardCol(props) {
   );
 }
 
-## Active Staff Members
-
-Current members of the Docusaurus team are listed in alphabetical order below.
+Current active staff members of our forum are listed in alphabetical order below.
 
 <div className="row">
   <TeamProfileCardCol
     name="Dawood Khan Masood"
-    githubUrl="https://github.com/FlawTechOfficial">
+    githubUrl="https://github.com/FlawTechOfficial"
+    twitterUrl="https://twitter.com/FlawDotTech"
+    authorImg="https://flaw.tech/assets/avatars/aDRCdgD3WbogrJ0N.png">
     Obsessed open-source enthusiast 👋 Eternal amateur at everything 🤷‍♂️
   </TeamProfileCardCol>
 </div>
