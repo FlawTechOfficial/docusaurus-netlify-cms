@@ -1,7 +1,7 @@
 ---
 title: We are recruiting forum staff!
 author: Dawood Khan Masood
-author_title: CEO
+author_title: Chief Executive Officer
 author_url: https://flaw.tech/u/Dawood
 author_image_url: https://flaw.tech/assets/avatars/aDRCdgD3WbogrJ0N.png
 tags: [staff, recruitment]
