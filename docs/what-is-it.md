@@ -9,8 +9,8 @@ Anyone can contribute their knowledge or request help from other experts. Main t
 
 You will need to register an account to access features such as starting a discussion, replying to someone or liking a post. You can use the following platforms to register yourself:
 
-1. Using e-mail address
+1. Using email address
 2. Using Google account
 3. Using Facebook account
 
-Please note that we don't allow temporary e-mails. If you wish to register using your e-mail address, you will need to use your personal/work e-mail to access our forum.
+Please note that we don't allow temporary emails. If you wish to register using your email address, you will need to use your personal/work email to access our forum.
