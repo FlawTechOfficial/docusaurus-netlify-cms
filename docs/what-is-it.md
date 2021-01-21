@@ -9,7 +9,7 @@ Anyone can contribute their knowledge or request help from other experts. Main t
 
 You will need to register an account to access features such as starting a discussion, replying to someone or liking a post. You can use the following platforms to register yourself:
 
-1. Using e-mail account
+1. Using e-mail address
 2. Using Google account
 3. Using Facebook account
 
