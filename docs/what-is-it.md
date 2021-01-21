@@ -13,4 +13,4 @@ You will need to register an account to access features such as starting a discu
 2. Using Google account
 3. Using Facebook account
 
-Please note that we don't allow temporary emails. If you wish to register using your email address, you will need to use your personal/work email.
+Please note that we do not allow temporary emails. If you wish to register using your email address, you will need to use your personal/work email.
