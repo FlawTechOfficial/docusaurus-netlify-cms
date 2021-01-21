@@ -7,7 +7,7 @@ We use [Flarum's open-source platform](https://flarum.org/) to operate our forum
 
 Anyone can contribute their knowledge on our forum, or request help from other experts. Main topics of discussion include operating systems, electronics and electronic gadgets, security, software, hardware, servers, programming, mobile devices and general help. 
 
-To start contributing, you will need to register an account. You can use the following platforms to register yourself:
+You will need to register an account to access features such as starting a discussion, replying to a discussion or liking a post. You can use the following platforms to register yourself:
 
 1. Using e-mail account
 2. Using Google account
