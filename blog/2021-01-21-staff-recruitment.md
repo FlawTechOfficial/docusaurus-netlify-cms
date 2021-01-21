@@ -6,6 +6,7 @@ author_url: https://flaw.tech/u/Dawood
 author_image_url: https://flaw.tech/assets/avatars/aDRCdgD3WbogrJ0N.png
 image: https://dev.flaw.tech/img/blog/2021-01-21-staff-recruitment.png
 tags: [staff, recruitment]
+description: We are looking for experienced members to help us manage Flaw Tech's forum.
 ---
 
 We are looking for experienced members to help us manage Flaw Tech's forum. Of course, anyone could be a member of the team. That is why we are inviting you!
