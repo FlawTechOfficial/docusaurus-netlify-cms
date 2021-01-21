@@ -18,7 +18,7 @@ Please do remember that we always try to have our edits and changes as authentic
 ## Requirements
 
 - You must have participated in at least 10 discussion threads on our forum.
-- You must have a good understanding of the English language and are able to write proper grammar.
-- You must have at least one month experience with staff position on any other website, prior to applying here.
+- You must have a good understanding of the English language and able to write proper grammar.
+- You must have at least one month staff experience on any other website, prior to applying here.
 - You must have a good understanding of our [Code of Conduct](https://dev.flaw.tech/docs/code-of-conduct) and any other company guidelines.
 - You must have an overall good reputation on our forum as a trusted member.
