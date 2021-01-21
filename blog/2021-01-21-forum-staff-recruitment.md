@@ -4,7 +4,7 @@ author: Dawood Khan Masood
 author_title: Chief Executive Officer
 author_url: https://flaw.tech/u/Dawood
 author_image_url: https://flaw.tech/assets/avatars/aDRCdgD3WbogrJ0N.png
-image: https://dev.flaw.tech/img/blog/2021-01-21-staff-recruitment.png
+image: https://dev.flaw.tech/img/blog/2021-01-21-forum-staff-recruitment.png
 tags: [staff, recruitment]
 description: We are looking for experienced members to help us manage Flaw Tech's forum.
 ---
