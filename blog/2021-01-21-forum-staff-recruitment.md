@@ -13,7 +13,7 @@ We are looking for experienced members to help us manage Flaw Tech's forum. Of c
 
 <!--truncate-->
 
-![https://dev.flaw.tech/img/blog/2021-01-21-forum-staff-recruitment.png](https://dev.flaw.tech/img/blog/2021-01-21-forum-staff-recruitment.png)
+![We are recruiting forum staff!](https://dev.flaw.tech/img/blog/2021-01-21-forum-staff-recruitment.png)
 
 If you believe you can help us out, please create a recruitment application and forward it to our e-mail address ([support@flaw.tech](mailto:support@flaw.tech)), or reply to this [thread](https://flaw.tech/d/31-we-are-recruiting-staff-members). 
 
