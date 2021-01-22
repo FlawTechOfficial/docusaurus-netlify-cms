@@ -1,6 +1,6 @@
 ---
 id: forum-staff
-title: Staff
+title: Staff Members
 ---
 
 import TeamProfileCard from '@site/src/components/TeamProfileCard';
