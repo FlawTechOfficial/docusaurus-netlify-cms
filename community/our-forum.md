@@ -1,5 +1,5 @@
 ---
-id: what-is-it
+id: our-forum
 title: What is it?
 ---
 
