@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Flaw Tech Development',
+  title: 'Flaw Tech',
   tagline: 'All the help you need to understand Flaw Tech better',
   url: 'https://dev.flaw.tech',
   baseUrl: '/',
@@ -111,7 +111,7 @@ module.exports = {
         src: 'img/logo-text.png',
         href: 'https://flaw.tech',
       },
-      copyright: `Copyright © 2020-${new Date().getFullYear()} Flaw Tech Development. All Rights Reserved.`,
+      copyright: `Copyright © 2020-${new Date().getFullYear()} Flaw Tech. All Rights Reserved.`,
     },
   },
   presets: [
@@ -137,7 +137,7 @@ module.exports = {
             'https://github.com/FlawTechOfficial/docusaurus-netlify-cms/edit/master/blog/',
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © 2020-${new Date().getFullYear()} Flaw Tech Development. All Rights Reserved.`,
+            copyright: `Copyright © 2020-${new Date().getFullYear()} Flaw Tech. All Rights Reserved.`,
           },
         },
         theme: {
