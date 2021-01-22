@@ -1,8 +1,7 @@
 module.exports = {
   sidebar: {
     'Introduction': ['welcome'],
-    'Forum': ['our-forum'],
+    'Forum': ['our-forum', 'forum-staff'],
     'Support': ['forum','email','news'],
-    'Team': ['forum-staff'],
   },
 };
