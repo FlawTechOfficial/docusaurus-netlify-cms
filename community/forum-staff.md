@@ -18,7 +18,7 @@ Current active staff members of our forum are listed in alphabetical order below
     name="Dawood Khan Masood"
     profileUrl="https://flaw.tech/u/Dawood"
     twitterUrl="https://twitter.com/FlawDotTech"
-    authorImg="https://flaw.tech/assets/avatars/aDRCdgD3WbogrJ0N.png">
+    authorImg="https://flaw.tech/assets/avatars/pmqsbhIrxS9TgTAP.png">
     Obsessed open-source enthusiast 👋 Eternal amateur at everything 🤷‍♂️
   </TeamProfileCardCol>
 </div>
