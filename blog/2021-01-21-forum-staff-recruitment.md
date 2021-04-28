@@ -4,8 +4,8 @@ description: We are looking for experienced members to help us manage Flaw Tech'
 image: https://dev.flaw.tech/img/blog/2021-01-21-forum-staff-recruitment.png
 author: Dawood Khan Masood
 author_title: Chief Executive Officer
-author_url: https://flaw.tech/u/Dawood
-author_image_url: https://flaw.tech/assets/avatars/aDRCdgD3WbogrJ0N.png
+author_url: https://flaw.tech/user/avalerion
+author_image_url: https://ik.imagekit.io/flawtech/files/b028c98c0453e0c880ddfa7476bd18d4__TbS21T1T
 tags: [forum, staff, recruitment]
 ---
 
