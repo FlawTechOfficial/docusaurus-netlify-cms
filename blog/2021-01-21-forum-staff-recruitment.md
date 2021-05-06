@@ -15,7 +15,7 @@ We are looking for experienced members to help us manage Flaw Tech's forum. Of c
 
 ![We are recruiting forum staff!](https://dev.flaw.tech/img/blog/2021-01-21-forum-staff-recruitment.png)
 
-If you believe you can help us out, please create a recruitment application and forward it to our e-mail address ([support@flaw.tech](mailto:support@flaw.tech)), or reply to this [thread](https://flaw.tech/d/31-we-are-recruiting-staff-members). 
+If you believe you can help us out, please create a recruitment application and forward it to our e-mail address ([support@flaw.tech](mailto:support@flaw.tech)), or reply to this [thread](https://flaw.tech/topic/11/we-are-recruiting-forum-staff). 
 
 Please do remember that we always try to have our edits and changes as authentic as possible, which means we look for long term experienced staff members.
 
