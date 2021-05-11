@@ -23,7 +23,7 @@ I never imagined Flaw Tech to grow at such a pace and while that is a good thing
 
 ### Why not implement ads?
 
-True, we can keep running our platform by implementing third-party ads but I like to think that user experience should be prioritized above everything else. Not only they make the user experience terrible but they also bloat down the website performance.  
+True, we can keep running our platform by implementing third-party ads but I like to think that user experience should be prioritized above everything else. Not only ads make the user experience terrible but they also bloat down the website performance.  
 
 ### How much do I pay to get the subscription?
 
