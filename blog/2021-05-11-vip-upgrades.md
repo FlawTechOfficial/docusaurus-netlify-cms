@@ -1,6 +1,6 @@
 ---
-title: Announcing VIP membership
-description: We are happy to announce VIP membership feature on our platform.
+title: Announcing VIP Subscription
+description: Flaw Tech is pleased to announce VIP subscription.
 image: https://dev.flaw.tech/img/blog/2021-01-21-forum-staff-recruitment.png
 author: Dawood Khan Masood
 author_title: Chief Executive Officer
@@ -9,7 +9,7 @@ author_image_url: https://ik.imagekit.io/flawtech/files/b028c98c0453e0c880ddfa74
 tags: [forum, vip, upgrade]
 ---
 
-We are pleased to announce an exclusive VIP Membership Package for the most discerning members of our fine community.
+We are pleased to announce an exclusive VIP subscription for the most discerning members of our fine community.
 
 <!--truncate-->
 
