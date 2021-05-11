@@ -11,7 +11,6 @@ module.exports = {
     navbar: {
       title: 'Help Center',
       logo: {
-        href: 'https://dev.flaw.tech',
         alt: 'Flaw Tech Logo',
         src: 'img/logo.svg',
       },
