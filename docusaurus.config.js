@@ -9,9 +9,9 @@ module.exports = {
   projectName: 'docusaurus-netlify-cms', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Flaw Tech',
+      title: 'Help Center',
       logo: {
-        href: 'https://flaw.tech',
+        href: 'https://dev.flaw.tech',
         alt: 'Flaw Tech Logo',
         src: 'img/logo.svg',
       },
