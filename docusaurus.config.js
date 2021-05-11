@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Flaw Tech',
+  title: 'Flaw Tech Help Center',
   tagline: 'All the help you need to understand Flaw Tech better',
   url: 'https://dev.flaw.tech',
   baseUrl: '/',
