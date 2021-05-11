@@ -25,9 +25,9 @@ I never imagined Flaw Tech to grow at such a pace and while that is a good thing
 
 True, we can keep running our platform by implementing third-party ads but I like to think that user experience should be prioritized above everything else. Not only ads make the user experience terrible but they also bloat down the website performance.  
 
-### How much do I pay to get the subscription?
+### How much do I donate to get the subscription?
 
-We are still not sure about the price model so the best option was to let you guys decide our platform's worth. Donating any amount will give you access to join the VIP group.
+We are still not sure about the price model so the best option was to let you guys decide our platform's worth. Donating a minimum amount of $5 will give you access to join the VIP group.
 
 ### Great! How do I donate then?
 
