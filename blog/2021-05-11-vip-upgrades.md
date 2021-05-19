@@ -15,15 +15,15 @@ We are pleased to announce an exclusive VIP subscription for the most discerning
 
 ![Flaw Tech VIP Membership Cover](https://ik.imagekit.io/flawtech/files/b300245cffb883665d38af32a9f8952c_ENY-e4bf7)
 
-Starting today anyone can subscribe to our VIP subscription by donating any amount. You can choose to donate $5 or $500, it doesn't matter!
+Starting today anyone can subscribe to our VIP subscription by donating a minimum of $5.
 
 ### Why does it have to be paid-only?
 
 I never imagined Flaw Tech to grow at such a pace and while that is a good thing, sadly, the server expenses are also increasing. This doesn't mean we are moving in the direction of 'pay-to-access'. Donating a certain amount will help us keep our platform running and give you access to exclusive content that isn't available anywhere else. 
 
-### Why not implement ads?
+### Why not implement Adsense instead?
 
-True, we can keep running our platform by implementing third-party ads but I like to think that user experience should be prioritized above everything else. Not only ads make the user experience terrible but they also bloat down the website performance.  
+True, we can keep running our platform by implementing third-party ads but I like to think that user experience should be prioritized above everything else. Not only Adsense make the user experience terrible but it also bloats down the website performance.  
 
 ### How much do I donate to get the subscription?
 
